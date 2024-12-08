@@ -9,3 +9,4 @@
 #### c) All values are normalized using Z-score normalization.
 #### d) Arbitraty random values are assigned to weight (w) and 0 to bias (b) in matrix form.
 #### e) predicted value "y_hat" is calculated using the formula:
+![image alt]()
