@@ -15,6 +15,7 @@
 #### g) We are going to minimize the cost function by changing the weight and bias values using gradient descent method.
 #### h) In order to do that, we first need to calculate the derivation of cost function w.r.t weight and bias which is given by the formula:
 ![image alt](https://github.com/Rahul24qwerty/Building-Neural-Network-with-Single-Perceptron-for-Regression-Model-from-Scratch/blob/715f8b2931c14e8d056d240d3fdabd4701116d0d/deri_w.PNG)
+#### 
 ![image alt](https://github.com/Rahul24qwerty/Building-Neural-Network-with-Single-Perceptron-for-Regression-Model-from-Scratch/blob/715f8b2931c14e8d056d240d3fdabd4701116d0d/deri_b.PNG)
 #### i) Now weight (w) and bias (b) are updated every time the iteration runs in a loop.Formula for updating the weight and bias is given as: (We have used a learning rate = 0.05)
 
