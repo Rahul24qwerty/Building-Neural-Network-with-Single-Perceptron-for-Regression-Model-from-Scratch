@@ -20,7 +20,7 @@
 #### 
 ![image alt](https://github.com/Rahul24qwerty/Building-Neural-Network-with-Single-Perceptron-for-Regression-Model-from-Scratch/blob/715f8b2931c14e8d056d240d3fdabd4701116d0d/deri_b.PNG)
 #### i) Now weight (w) and bias (b) are updated every time the iteration runs in a loop.Formula for updating the weight and bias is given as: (We have used a learning rate = 0.05)
-![image alt]()
+![image alt](https://github.com/Rahul24qwerty/Building-Neural-Network-with-Single-Perceptron-for-Regression-Model-from-Scratch/blob/dbd864df8fc311d9f3a2762c4646b2f9eea5284f/up_para.PNG)
 
 ## DATA VISUALIZATION
 #### j) Below is the scatter plot for the original dataset, Noralized dataset and best fit line for the dataset
