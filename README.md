@@ -9,4 +9,6 @@
 #### c) All values are normalized using Z-score normalization.
 #### d) Arbitraty random values are assigned to weight (w) and 0 to bias (b) in matrix form.
 #### e) predicted value "y_hat" is calculated using the formula:
+![image alt](https://github.com/Rahul24qwerty/Building-Neural-Network-with-Single-Perceptron-for-Regression-Model-from-Scratch/blob/49ee23e3adf6fe563b4e29564fd7ef4f87eb064e/for_1.PNG)
+#### f) Cost function is computed with actual values (y) and the predicted value (y_hat) using formula:
 ![image alt]()
