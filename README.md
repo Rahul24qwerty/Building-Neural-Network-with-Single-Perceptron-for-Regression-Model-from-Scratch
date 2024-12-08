@@ -23,7 +23,9 @@
 ![image alt](https://github.com/Rahul24qwerty/Building-Neural-Network-with-Single-Perceptron-for-Regression-Model-from-Scratch/blob/dbd864df8fc311d9f3a2762c4646b2f9eea5284f/up_para.PNG)
 
 ## DATA VISUALIZATION
-#### j) Below is the scatter plot for the original dataset, Noralized dataset and best fit line for the dataset
+#### j) Below is the scatter plot for the original dataset (Black dots) and normalized dataset (green dots)
+![image alt]()
+#### k) Below is the best fit line for the regression model for predicting y values when x inputs are given.
 ![image alt]()
 
 
