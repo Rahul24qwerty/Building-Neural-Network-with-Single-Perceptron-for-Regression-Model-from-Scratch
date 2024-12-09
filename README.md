@@ -26,7 +26,7 @@
 #### j) Below is the scatter plot for the original dataset (Black dots) and normalized dataset (green dots)
 ![image alt](https://github.com/Rahul24qwerty/Building-Neural-Network-with-Single-Perceptron-for-Regression-Model-from-Scratch/blob/661dc02e92e21142d182cbf979119d71ec7e5e3a/scatter_original.PNG)
 ![image alt](https://github.com/Rahul24qwerty/Building-Neural-Network-with-Single-Perceptron-for-Regression-Model-from-Scratch/blob/661dc02e92e21142d182cbf979119d71ec7e5e3a/scatter_normalized.PNG)
-#### k) Below is the best fit line for the regression model for predicting y values when x inputs are given.
+#### k) After training out neural network model with 200 training set examples , we have found the final best values of weights and bias, and based on those values , best fit line is plotted to predict the sales (y value) for a given marketing data (x values)
 ![image alt](https://github.com/Rahul24qwerty/Building-Neural-Network-with-Single-Perceptron-for-Regression-Model-from-Scratch/blob/661dc02e92e21142d182cbf979119d71ec7e5e3a/regression_fitting.PNG)
 
 
